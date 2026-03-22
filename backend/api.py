@@ -86,6 +86,9 @@ def run_swarm():
                     labels = labels_data['labels'][:30]
             except:
                 labels = [1 if i < 15 else 0 for i in range(len(resumes))]
+
+            from sklearn.utils import shuffle
+            resumes, labels = shuffle(resumes, labels)
         
         # Ensure we have at least 30 items
         while len(resumes) < 30:

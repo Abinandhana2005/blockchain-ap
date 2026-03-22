@@ -52,9 +52,18 @@ class SwarmAggregator:
         for round_num in range(1, num_rounds + 1):
             self.run_swarm_round(nodes_list, round_num)
         
-        # Get accuracy history from first node
         if nodes_list and nodes_list[0].accuracy_history:
-            return nodes_list[0].accuracy_history
+            avg_accuracies = []
+            
+            num_rounds = len(nodes_list[0].accuracy_history)
+            
+            for i in range(num_rounds):
+                round_acc = np.mean([
+                    node.accuracy_history[i] for node in nodes_list
+                ])
+                avg_accuracies.append(round_acc)
+            
+            return avg_accuracies
         return [0.5] * num_rounds
 
 if __name__ == "__main__":
