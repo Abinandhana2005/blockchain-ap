@@ -1,0 +1,24 @@
+{
+  "name": "bc",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000b\u0000l\u0000o\u0000c\u0000k\u0000c\u0000h\u0000a\u0000i\u0000n\u0000-\u0000a\u0000p\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abinandhana2005/blockchain-ap.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Abinandhana2005/blockchain-ap/issues"
+  },
+  "homepage": "https://github.com/Abinandhana2005/blockchain-ap#readme",
+  "devDependencies": {
+    "hardhat": "^3.2.0"
+  }
+}
