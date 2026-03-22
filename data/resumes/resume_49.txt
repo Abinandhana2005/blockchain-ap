@@ -1,0 +1,18 @@
+Name: Rajesh Kumar
+Email: rajesh.kumar@gmail.com
+Phone: +91 9999999999
+
+PROFESSIONAL EXPERIENCE
+ML Engineer (varies)
+- Built systems
+- Led teams
+- Improved performance
+
+SKILLS
+Python, Java, ML, Cloud
+
+EDUCATION
+Bangalore University, 9.4/10
+
+PROJECTS
+Swarm Learning, ML Model, Blockchain

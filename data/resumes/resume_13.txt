@@ -1,0 +1,18 @@
+Name: Neha Sharma
+Email: neha.sharma@gmail.com
+Phone: +91 9999999999
+
+PROFESSIONAL EXPERIENCE
+Full Stack Developer (varies)
+- Built systems
+- Led teams
+- Improved performance
+
+SKILLS
+Python, Java, ML, Cloud
+
+EDUCATION
+IIT Delhi, 7.9/10
+
+PROJECTS
+Swarm Learning, ML Model, Blockchain
