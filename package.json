@@ -13,12 +13,14 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/Abinandhana2005/blockchain-ap/issues"
   },
   "homepage": "https://github.com/Abinandhana2005/blockchain-ap#readme",
   "devDependencies": {
-    "hardhat": "^3.2.0"
+    "@types/node": "^22.19.15",
+    "hardhat": "^3.2.0",
+    "typescript": "~5.8.0"
   }
 }
