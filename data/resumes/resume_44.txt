@@ -1,9 +1,9 @@
-Name: Neha Sharma
-Email: neha.sharma@gmail.com
+Name: Vikram Das
+Email: vikram.das@gmail.com
 Phone: +91 9999999999
 
 PROFESSIONAL EXPERIENCE
-ML Engineer (varies)
+Junior Developer (varies)
 - Built systems
 - Led teams
 - Improved performance
@@ -12,7 +12,7 @@ SKILLS
 Python, Java, ML, Cloud
 
 EDUCATION
-IIT Bombay, 8.0/10
+Bangalore University, 6.8/10
 
 PROJECTS
 Swarm Learning, ML Model, Blockchain

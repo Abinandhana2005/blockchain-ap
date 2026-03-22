@@ -3,7 +3,7 @@ Email: rajesh.kumar@gmail.com
 Phone: +91 9999999999
 
 PROFESSIONAL EXPERIENCE
-ML Engineer (varies)
+Senior Software Engineer (varies)
 - Built systems
 - Led teams
 - Improved performance
@@ -12,7 +12,7 @@ SKILLS
 Python, Java, ML, Cloud
 
 EDUCATION
-Delhi University, 9.1/10
+IIT Delhi, 9.9/10
 
 PROJECTS
 Swarm Learning, ML Model, Blockchain

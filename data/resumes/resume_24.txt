@@ -12,7 +12,7 @@ SKILLS
 Python, Java, ML, Cloud
 
 EDUCATION
-IIT Bombay, 6.4/10
+Delhi University, 9.6/10
 
 PROJECTS
 Swarm Learning, ML Model, Blockchain

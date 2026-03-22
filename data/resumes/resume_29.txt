@@ -1,5 +1,5 @@
-Name: Arjun Patel
-Email: arjun.patel@gmail.com
+Name: Neha Sharma
+Email: neha.sharma@gmail.com
 Phone: +91 9999999999
 
 PROFESSIONAL EXPERIENCE
@@ -12,7 +12,7 @@ SKILLS
 Python, Java, ML, Cloud
 
 EDUCATION
-IIT Delhi, 6.4/10
+IIT Bombay, 8.9/10
 
 PROJECTS
 Swarm Learning, ML Model, Blockchain
