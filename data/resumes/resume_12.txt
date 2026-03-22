@@ -1,9 +1,9 @@
-Name: Arjun Patel
-Email: arjun.patel@gmail.com
+Name: Vikram Das
+Email: vikram.das@gmail.com
 Phone: +91 9999999999
 
 PROFESSIONAL EXPERIENCE
-Senior Software Engineer (varies)
+ML Engineer (varies)
 - Built systems
 - Led teams
 - Improved performance
@@ -12,7 +12,7 @@ SKILLS
 Python, Java, ML, Cloud
 
 EDUCATION
-Bangalore University, 8.2/10
+Delhi University, 8.2/10
 
 PROJECTS
 Swarm Learning, ML Model, Blockchain

@@ -3,7 +3,7 @@ Email: vikram.das@gmail.com
 Phone: +91 9999999999
 
 PROFESSIONAL EXPERIENCE
-Junior Developer (varies)
+ML Engineer (varies)
 - Built systems
 - Led teams
 - Improved performance
@@ -12,7 +12,7 @@ SKILLS
 Python, Java, ML, Cloud
 
 EDUCATION
-IIT Bombay, 8.9/10
+IIT Delhi, 6.5/10
 
 PROJECTS
 Swarm Learning, ML Model, Blockchain

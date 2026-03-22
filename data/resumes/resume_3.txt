@@ -1,5 +1,5 @@
-Name: Rajesh Kumar
-Email: rajesh.kumar@gmail.com
+Name: Vikram Das
+Email: vikram.das@gmail.com
 Phone: +91 9999999999
 
 PROFESSIONAL EXPERIENCE
@@ -12,7 +12,7 @@ SKILLS
 Python, Java, ML, Cloud
 
 EDUCATION
-IIT Bombay, 6.8/10
+Delhi University, 7.1/10
 
 PROJECTS
 Swarm Learning, ML Model, Blockchain

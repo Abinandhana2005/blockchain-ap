@@ -1,5 +1,5 @@
-Name: Rajesh Kumar
-Email: rajesh.kumar@gmail.com
+Name: Neha Sharma
+Email: neha.sharma@gmail.com
 Phone: +91 9999999999
 
 PROFESSIONAL EXPERIENCE
@@ -12,7 +12,7 @@ SKILLS
 Python, Java, ML, Cloud
 
 EDUCATION
-Delhi University, 8.9/10
+Bangalore University, 6.1/10
 
 PROJECTS
 Swarm Learning, ML Model, Blockchain

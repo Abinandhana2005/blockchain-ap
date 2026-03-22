@@ -1,9 +1,9 @@
-Name: Priya Singh
-Email: priya.singh@gmail.com
+Name: Arjun Patel
+Email: arjun.patel@gmail.com
 Phone: +91 9999999999
 
 PROFESSIONAL EXPERIENCE
-ML Engineer (varies)
+Junior Developer (varies)
 - Built systems
 - Led teams
 - Improved performance
@@ -12,7 +12,7 @@ SKILLS
 Python, Java, ML, Cloud
 
 EDUCATION
-Bangalore University, 6.0/10
+IIT Bombay, 6.7/10
 
 PROJECTS
 Swarm Learning, ML Model, Blockchain
