@@ -1,0 +1,98 @@
+Education Details 
+ B.Tech Electronics And Instrumentation Engineering Jaunpur, Uttar Pradesh VBS Purvanchal University
+Automation Tester 
+
+Automation Tester - Tech Mahindra
+Skill Details 
+Company Details 
+company - Tech Mahindra
+description - Mumbai		May 2018 to Present
+
+Project & Contribution
+Tech Mahindra
+
+Project Title: Payment Gateway Jio Money
+Role: Automation Tester
+Responsibility: * Analyzing the manual test cases to create automation scripts.
+* Working on Redwood tool for Automation.
+* Maintained regression pack as per the project requirement.
+* Performed API testing.
+* Created Automation scripts for API testing.
+* Enhancing framework to support cross functionality testing * Execute test cases and evaluate test results for both manual and automated testing.
+* Maintaining the scripts as per the requirement.
+* Adding new automated tests to improve automated test coverage for both functional and regression.
+* Performed automation testing, analyzing test results, and report defect into the bug tracking system and drive issues to resolution.
+* Preparation of test data with different test conditions to ensure coverage of business rules.
+* Performed Sanity, Ad hoc and Regression testing.
+* Participated in defect triage meetings with developers to validate the severity of the bug and responsible for tracking of the bug life cycle.
+* Worked with development team to ensure testing issues are resolved.
+
+Project Description
+JIO MONEY- Jio Payment Gateway provides the Facility to Merchants and Users to enable to pay through the JIO MONEY. Features include: Purchase, Bill Payment, load Money, short cash purchase, Pay to Merchant and Pay to User etc.
+
+Inscripts
+Project Title: CometChat
+Role: Automation Tester
+Responsibility:
+Created automation framework with bug report using page object and data driven framework with automated email test scripts
+Handling QA tickets, Coordinate with the development team
+
+Project Description
+CometChat is the chat solution for your site/app which will help you grow your customer base exponentially, drastically increase the time spent by users. The CometChat has several useful features like one on one chat, group chat, audio/video call, screen sharing, Games, real time chat translation, Mobile apps and desktop messenger.
+
+Project Title: Web tracker
+Role: Sr. Software Tester
+Responsibility:
+Creation Test Scenarios, Test Script and Test Case
+Execution of Test Case
+Ad-Hoc Manual Testing
+Regression Testing
+Automation Testing, Test Scripts using tools such as Selenium WebDriver 2.0
+
+Project Description
+Accomplishment Web Tracker aims to provide time sheet facility to its customers. Release contains the following features which are related to employee time tracking, task assignments, tracker submission, reminders, approvals & its notifications.
+
+Hayaan InfoTech
+
+Project Title: Real Estate Agent Website
+Role: Sr. Software Tester
+Responsibility:
+Creation Test Scenarios and Test Case
+Execution of Test Case
+Smoke Testing
+Black Box Testing
+Ad-Hoc Manual Testing
+Regression Testing
+
+Project Description
+This project has WEB page graphical HTML representation of a neighborhood made up of different types of houses and apartments. There are several sales people around the country, who are all responsible for selling the houses and apartments through Web Site. This Web Site help user to Purchase or Request for any Estate Property.
+
+Project Title: E-commerce Website
+Role: Software Tester
+Responsibility:
+Creation Test Scenarios and Test Case
+Execution of Test Case
+Ad-Hoc Manual Testing
+Smoke Testing
+Black Box Testing
+Regression Testing
+
+Project Description
+This project includes Order Processing, Invoice Generated and Printing, Packaging Slip, Order Payment, Return material Authorization, Label Sheet Printing. The Order Processing of that application is very big. There are 3 main entities which are involved in the Order Processing Customer, Sales Person, and Admin.
+
+Project Title: Enquiry to Invoice System
+Role: Software Tester
+Responsibility:
+Creation Test Scenarios and Test Case
+Execution of Test Case
+Smoke Testing
+Black Box Testing
+Ad-Hoc Manual Testing
+Regression Testing
+
+Project Description
+This application is browser-based application to reduce investment in hardware and software. The proposed system contains following module, which offers database management and reporting of various activity of company. This application comprise of following module Inquiry and Estimation, Quotation & Negotiation, Purchase Order System, Delivery System, MIS Reports.
+company - Inscripts (India) Pvt. Ltd
+description - 
+company - Haayan InfoTech Pvt. Ltd
+description - 

@@ -1,0 +1,41 @@
+* Excellent grasping power in learning new concepts and technology. * Highly motivated team player with strong work ethics, committed to hard work. * Ability to work and co-ordinate in a team effectively. * Enthusiastic self-starter and team player. * Quick and independent learner.Education Details 
+January 2014 Bachelor of Technology Information Technology branch  BPUT University
+January 2010 Diploma Engineering Brahmapur, Orissa U.C.P Engineering School
+Software Testing & Automation Engineer 
+
+Software Testing & Automation Engineer - Tech Mahindra
+Skill Details 
+Company Details 
+company - Tech Mahindra
+description - India
+Duration       Oct 2017- Till Date
+
+Project Description
+BT Group plc (trading as BT and formerly British Telecom) is a British multinational telecommunications holding company with head offices in London, United Kingdom. I worked for Air Logistics Program under the banner of British Telecom. This project handles all the web applications to carry out the whole logistics operation over United Kingdom through various airlines.
+
+Roles & Responsibilities â¢ Design and develop framework for the Test scenarios and Test cases.
+â¢ Developing automation test scripts on the existing application â¢ Executing Test Cases for every new release..
+â¢ Involved in running test cases and logging defects through the HPQC tool.
+â¢ Involved in formulating test Summary Report.
+â¢ Conduct Internal Test Case Peer Reviews.
+â¢ Participated in Daily Scrum Meetings.
+â¢ Participated in weekly status meetings with the team, developers to discuss open issues and communicating with onsite team.
+company - Tech Mahindra Pvt. Ltd Pune, Tech Mahindra
+description - is an Indian multinational company with around 115, 000 Employees spread across 90 countries globally.
+
+Total Experience: 2 Years 7 Months
+
+Organization              Designation         Duration
+company - Tech Mahindra
+description - Project Description
+AT&T Inc. is an American multinational conglomerate holding company headquartered at Whitacre Tower in Downtown Dallas, Texas. During my serving as software engineer at AT&T, I have worked for CSI-CAM (Common Service Interface) team which is responsible for running of AT&T's centralised solution hub web application called myatt.com.
+
+Roles & Responsibilities â¢ Design, develop and maintaing Automation Test Scripts and Test cases using Selenium WebDriver and several desktop window automating tool such as Sikuli and AutoIT.
+â¢ Executing Test Cases and check the working functionality of  the existing application.
+â¢ Involved in tracking/manging test life cycle and logging defects using JIRA and HPQC/ALM.
+â¢ Involved in formulating test Summary Report.
+â¢ Conduct Internal Test Case Peer Reviews.
+â¢ Participated in Daily Scrum Meetings.
+â¢ Participated in weekly status meetings with the team, developers to discuss open issues and communicating with onsite team.
+company - Tech Mahindra Pvt. Ltd Pune, Tech Mahindra
+description - Till Date

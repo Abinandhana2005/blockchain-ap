@@ -1,0 +1,47 @@
+Education Details 
+January 2016 BSc.  Mumbai, Maharashtra Mumbai University
+January 2013 H.S.C.   Maharashtra Board
+January 2011 S.S.C.   Maharashtra Board
+MySQL Database Administrator 
+
+2+ Years of experience in MySQL Database Administrator ( MySQL DBA)
+Skill Details 
+MySQL DBA , Centos , Backup , Restore , Replication , Query Optimazation- Exprience - 24 monthsCompany Details 
+company - Trimax IT Infrastructure & Services Ltd
+description - Â·Â Â Â Â Â Â Â MYSQL Installation, maintenance and Upgrades (Version 5.5 , 5.6)
+Â·Â Â Â Â Â Â Â MySQL database administration on a large scale MySQL installation
+Â·Â Â Â Â Â Â Â Experience with MySQL on both Linux and Windows
+Â·Â Â Â Â Â Â Â MySQL processes, security management and queries optimization.
+Â·Â Â Â Â Â Â Â Performed query analysis for slow and problematic queries.
+Â·Â Â Â Â Â Â Â Performed Structural changes to Database like creating tables, adding columns according to business requirement
+Â·Â Â Â Â Â Â Â Creating and MaintainingÂ Database Maintenance Plans.
+
+
+
+Â·Â Â Â Â Â Â Â Writing scripts to Create Jobs for Backup & Restore Plans.
+Â·Â Â Â Â Â Â Â Working on MYISAM to INNODB engine.
+Â·Â Â Â Â Â Â Â Working on Server shifting , tuning parameter , database purging
+Â·Â Â Â Â Â Â Â Working on Mysql master slave Replication
+Â·Â Â Â Â Â Â Â Handling Release management and user acceptance.
+Â·Â Â Â Â Â Â Â Restore using xtrabackup.
+Â·Â Â Â Â Â Â Â Responsibilities include monitoring daily, weekly and monthly system maintenance tasks such as database backup, replication verification, database integrity verification and indexing updates
+Â·Â Â Â Â Â Â Â Work in 24/7 production database support.
+company - Trimax IT Infrastructure & Services Ltd
+description - Â·Â Â Â Â Â Â Â MYSQL Installation, maintenance and Upgrades (Version 5.5 , 5.6)
+Â·Â Â Â Â Â Â Â MySQL database administration on a large scale MySQL installation
+Â·Â Â Â Â Â Â Â Experience with MySQL on both Linux and Windows
+Â·Â Â Â Â Â Â Â MySQL processes, security management and queries optimization.
+Â·Â Â Â Â Â Â Â Performed query analysis for slow and problematic queries.
+Â·Â Â Â Â Â Â Â Performed Structural changes to Database like creating tables, adding columns according to business requirement
+Â·Â Â Â Â Â Â Â Creating and MaintainingÂ Database Maintenance Plans.
+
+
+
+Â·Â Â Â Â Â Â Â Writing scripts to Create Jobs for Backup & Restore Plans.
+Â·Â Â Â Â Â Â Â Working on MYISAM to INNODB engine.
+Â·Â Â Â Â Â Â Â Working on Server shifting , tuning parameter , database purging
+Â·Â Â Â Â Â Â Â Working on Mysql master slave Replication
+Â·Â Â Â Â Â Â Â Handling Release management and user acceptance.
+Â·Â Â Â Â Â Â Â Restore using xtrabackup.
+Â·Â Â Â Â Â Â Â Responsibilities include monitoring daily, weekly and monthly system maintenance tasks such as database backup, replication verification, database integrity verification and indexing updates
+Â·Â Â Â Â Â Â Â Work in 24/7 production database support.

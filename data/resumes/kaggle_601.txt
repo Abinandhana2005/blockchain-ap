@@ -1,0 +1,203 @@
+Education Details 
+August 2000 B.E Electronics Pune, Maharashtra Pune University
+Operations Manager 
+
+Operations Manager - Delta Controls, Dubai FZCO
+Skill Details 
+Company Details 
+company - Delta Controls, Dubai FZCO
+description - Heading Pune Branch [M/s Deltannex Integrators Pvt. Ltd.]                        From Aug '17 till date
+Designation - Operations Manager [1st Employee] 
+1. Reporting to the GM-Operations 2. Review of SOW, RFQ, Assist the proposal Team on the Engineering man hours, Project Schedule, Organization
+Chart and Meeting the client for pre-sales support 3. Review of SOW, RFQ, Client's Purchase Order or contract terms & conditions 4. Project Execution Plans after through discussion with client & consultants 5. Kick of meeting & Ad-hoc meetings with client 6. Project evaluation in terms of outlays & profits 7. Ensuring an appropriate project management framework 8. Management of all contractual and commercial issues related to the project 9. Monitoring, reviewing & reporting of the project progress 10. Coordinating and fostering teamwork & prioritization of team activities 11. Monitor the project budget 12. Apply quality management system and processes 13. Liaison with and reporting to client.
+14. Monitoring & complying with invoicing schedules.
+15. Compilation and submission of Change Orders / Waivers / Concessions. Responsible for Variation claims with support of proposal team 16. Approving the MRN & follow up with procurement team 17. Planning & Co-ordination of site activities 18. Receive final payment & project official closeout 19. Give a Constant Feedback to proposal based on the lessons learnt to correct the earlier mistakes in the future Proposal 20. Preparation of Project Management Reports in terms of Planned vs Actual based on EV Analysis and Scheduled Variances on biweekly / Monthly basis 21. Exception/ Alert reporting to GM on critical issues 22. Maintains contact with all clients in the market area to ensure high levels of client satisfaction 23. Adheres to all company policies, procedures and business ethics codes and ensures that they are communicated and implemented within the team.
+24. Transfer the project to the Project Team with proper internal kick-off and provide all the information including e-mail communication.
+25. Clarification e-mail/ phone to customer if any and responses from Customer 26. Site visit for Sales & technical discussions 27. Co-ordinates with Accounts for Tender Bond if any 28. Submission of offers/Tenders 29. Attending TQs/ Revisions / changes from customer 30. Managing revision of offers and costing and submittal if any
+company - HONEYWELL AUTOMATION INDIA LTD
+description - since May 2015 to June 2016 at HONEYWELL, Seoul, South Korea]
+
+Roles and Responsibilities: 1. Discuss with Honeywell Korea LE / PM and Engineering Manager, understand the work forecast and communicate it to GES stake holders.
+2. Understanding Project / Work pack scope and collect required design inputs from Honeywell Korea PM and LE.
+3. Communicating Project / Work pack scope and sending required design inputs to GES stake holders (OM / EM) 4. Helping GES office in preparing estimation for GES scope of activities.
+5. Discuss GES estimation with Honeywell Korea PM / LE.
+6. Coordinate between GES and Honeywell Korea PM / LE so that estimation is agreed by both parties.
+7. Helping GES in preparing JAs.
+8. Coordinate with Honeywell Korea PM / PC to get purchase orders as per JA.
+9. Coordinate with GES and Honeywell Korea for following activities during project execution: a. Understanding GES queries and getting them resolved by discussing with Honeywell Korea LE.
+b. Communicating Honeywell Korea requirements / schedules / revised design inputs / revised scope / Concerns / issues / Honeywell Korea comments / customer comments to GES.
+c. Understanding GES Change orders and discussing with Honeywell Korea LE / PM.
+d. Finalizing change orders.
+e. Ensure good quality of GES deliverables by doing spot quality checks.
+f. Ensuring that all the procedures standards are being followed at both sides.
+g. Ensuring smooth project execution as per agreed project schedules.
+h. Ensuring that Deliverables are being sent as per agreed deliverables schedule.
+i. Identifying possible issues in project and suggesting corrective actions to both GES & Honeywell Korea.
+j. Scheduling Project review meetings whenever required.
+k. Attending Proto type tests / demo / Design Review meetings / Pre-Inspection Meetings / Pre KOM / KOM whenever required.
+l. Ensuring engineer's travel for Pre-FAT / FAT / attending important meetings like KOM, Proto type tests, etc. as mutually agreed for the project.
+m. Arranging invitation letters / CCVI / Work permits, etc. for visa processing of GES engineers.
+n. Ensuring that progress reports are being sent regularly by GES EM.
+o. Ensuring that Pre-FAT / FAT is progressing smoothly.
+10. Preparing and sending Monthly Progress reports to all the stake holders.
+11. Arranging monthly teleconference with Honeywell Korea PAS Business Leader, Engineering Manager and GES Operations Manager to understand the progress and issues.
+12. Attending Project review meetings with PM / LE / EPC whenever required.
+13. Helping Honeywell Korea Sales / Proposal team in understanding GES capabilities and providing required information to them.
+14. Reviewing customer RFQs and ensure that all requirements are captured in proposals or informing the requirements / comments to proposal team / Project Manager.
+15. Attending estimation review meetings, TBEs, Technical clarification meetings whenever required.
+
+Projects Completed at HONEYWELL, India:
+
+Project (HONEYWELL)   Role   Project Highlights
+FGP/WPMP
+Client: TCO
+MAC: MUSTANG/HONEYWELL
+
+Team Lead
+System: EPKS DCS + SIS + FGS
+Job:- â¢ HARDWARE Configuration â¢ C-300 Application Development â¢ Timely delivery of the deliverable after ensuring quality check.
+â¢ Attending weekly project review meetings (telephonic) with client.
+
+THE PROJECT IS STILL IN STARTING PHASE SO SCOPE OF WORK IS NOT VERY CLEAR.
+
+Grain LNG RTLF
+Client: CBI / National Grid, UK
+
+Team Lead
+Process: LNG Tanker Loading
+System: EPKS DCS + SIS + FGS
+C-300 Controller = 1 No.
+Job:- â¢ Planning and Monitoring the below mentioned engineering activities- â¢ Design and development of all HARDWARE part as below:- â¦ System Cabinet -01 No â¦ Marshalling Cabinet - 01 No.
+â¦ Network Cabinet 01 No.
+â¦ System Architecture â¦ Heat and Load Calculation â¦ BOM â¦ Network and Miscellaneous cord schedule â¦ Wiring Schedule â¢ C-300 Application development monitoring â¢ HMI C&E Graphics development monitoring â¢ Testing of simple and complex loops using standard methodology along with HMI (Integrated Testing + Test Reports) â¢ Focal point for communication with client â¢ Timely delivery of the deliverable after ensuring quality check.
+â¢ Attending weekly project review meetings (telephonic) with client
+This was a FAST track project completed successfully
+Got Appreciations from client.
+
+AMC TO HPM Migration-MX8800
+Client: Thai Oil Public Co. Ltd.
+
+Team Lead
+Process: Furnace
+System: TPS
+HPM Controller = 1 No.
+Job:- â¢ Planning and Monitoring the below mentioned engineering activities- â¢ Loop drawing design using Microsoft VISIO â¢ Logic Point building using HPM builder â¢ PU Calculation and IO Allocation â¢ HPM Database preparation â¢ Downloading of points on HPM test system â¢ Testing of simple and complex loops using standard methodology â¢ Focal point for communication with client â¢ Timely delivery of the deliverable after ensuring quality check.
+â¢ Attending weekly project review meetings (telephonic) with client
+
+AMC TO HPM Migration-CCR1
+Client: Thai Oil Public Co. Ltd.
+
+Team Lead
+Process: Furnace
+System: TPS
+HPM Controller = 1 No.
+Job:- â¢ Planning and Monitoring the below mentioned engineering activities- â¢ Loop drawing design using Microsoft VISIO â¢ Logic Point building using HPM builder â¢ PU Calculation and IO Allocation â¢ HPM Database preparation â¢ Downloading of points on HPM test system â¢ Testing of simple and complex loops using standard methodology â¢ Focal point for communication with client â¢ Timely delivery of the deliverable after ensuring quality check.
+â¢ Attending weekly project review meetings (telephonic) with client
+
+Utilities and Offsites
+Client: ENPPI
+End Client: ETHYDCO, EGYPT
+
+Team Lead
+Process: Utilities for ETHYLENE plant.
+
+System: Experion R410.2,
+Redundant Controllers = 2Nos.
+System Cabinets = 4 Nos.
+Marshalling Cabinets = 10 Nos.
+Redundant Servers = 1 Pair
+Experion Backup Restore = 01 No
+Process History Database = 01 No.
+FDM Server = 01 No.
+Engineering Station - DCS = 01 No.
+Operating Stations - DCS = 05 No.
+Job:- â¢ Planning the activities like Hardware Engineering, Software Engineering and HMI development..
+â¢ Responsible for Hardware Engineering for System, Marshalling, Network, Power Distribution Cabinets etc.
+â¢ Preparation of BOM â¢ Answering the queries or doubts from Client â¢ Attending weekly project status meetings with client through video/audio conference.
+â¢ FAT completed, at Abu Dhabi, successfully.
+
+Control Plant-3/ Control Plant6
+Client: JBK Controls
+End Client: Qatar Foundation
+Qatar.
+
+Team Lead
+Process: HVAC
+System: ML200 R (PLC) + Experion
+R410.2 (For SCADA only)
+Redundant Controllers = 26 Nos.
+System/ Marshalling Cabinets = 60 Nos.
+Redundant Servers = 2 Pair
+FDM Server = 01 No.
+Engineering Station - DCS = 02 No.
+Operating Stations - DCS = 10 Nos.
+Job:- â¢ Monitored the Wiring schematic preparation activity for all 30 PLC control panels (UPS + SYSTEM + MARSHALLING) â¢ Monitored the control panel manufacturing activity for all 30 PLC panels.
+â¢ Monitored the internal testing activity of all 30 PLC panels.
+â¢ Monitored the FDS document development activity.
+â¢ Monitored the FAT document development activity.
+â¢ Performed the 2nd level Quality Checks for Wiring Schematics, FDS and FAT document.
+â¢ Delivered all the deliverables as mentioned above on time.
+â¢ Successfully completed the Pre-FAT and FAT, in presence of client from QATAR.
+
+NORTH SIDE UTILITY TUNNEL HVAC System.
+Client: JBK Controls
+End Client: Qatar Foundation
+Qatar.
+
+Team Lead â¢ Monitored the Wiring schematic preparation activity for all 28 PLC control panels (UPS + SYSTEM + MARSHALLING) â¢ Monitored the control panel manufacturing activity for all 28 PLC panels.
+â¢ Monitored the internal testing activity of all 28 PLC panels.
+â¢ Monitored the FDS document development activity.
+â¢ Monitored the FAT document development activity.
+â¢ Performed the 2nd level Quality Checks for Wiring Schematics, FDS and FAT document.
+â¢ Delivered all the deliverables as mentioned above on time.
+â¢  Successfully completed the Pre-FAT and FAT, in presence of client from QATAR.
+
+TRUCK MARSHALLING AREA HVAC System.
+Client: JBK Controls
+End Client: Qatar Foundation
+Qatar.
+
+Team Lead â¢ Monitored the Wiring schematic preparation activity for all 6 PLC control panels (UPS + SYSTEM + MARSHALLING) â¢ Monitored the control panel manufacturing activity for all 6 PLC panels.
+â¢ Monitored the internal testing activity of all 6 PLC panels.
+â¢ Monitored the FDS document development activity.
+â¢ Monitored the FAT document development activity.
+â¢ Performed the 2nd level Quality Checks for Wiring Schematics, FDS and FAT document.
+â¢ Delivered all the deliverables as mentioned above on time.
+â¢  Successfully completed the Pre-FAT and FAT, in presence of client from QATAR.
+
+Graphics Development
+Client: Chevron Oronite.
+Singapore.
+
+Team Lead â¢ Prepared the estimation for GRAPHICS DEVELOPMENT job using EPKS HMIWEB Display Builder.
+â¢ Completed the development activity within schedule with a very proficient team of 3 engineers.
+â¢ Performed the 2nd Level Quality Check for all 66 graphics.
+â¢ Delivered the developed graphics as per the delivery schedule.
+â¢ Very few defects / comments noticed by clients. (which were accepted and implemented)
+
+TGI Modernization
+Client: KH Engineering B.V.
+End User: Shell Nederland Raffinaderji B.V.
+Amsterdam
+
+Team Lead â¢ Application engineering for Highway Gateway (HG) to EPKS migration based on CMPI database â¢ Application development for Furnace COIL BALANCING loop â¢ Flow Compensation logic development â¢ HMI testing and converting old system HMI scripts to ACE Control Modules â¢ Performed Quality Check activities by extracting logic parameters 
+â¢ Trainings Completed: -
+company - FOX CONTROLS
+description - â¢ Strategically planning and analyzing the basic requirements while setting up the technical infrastructure of the project and reviewing all the project proposals.
+â¢ Accountable for PLC and SCADA based application development.
+â¢ Perform engineering and commissioning of Process Plants using PLC, DRIVES and SCADA.
+â¢ Carrying out thorough Documentation of Engineering details related to the project.
+â¢ Organizing and managing resources while creating estimates for the project, Work Breakdown Structure, Project Plan, Contingency Plan & Schedules, preventive maintenance related to instrumentation, PLC, identifying risks within defined scope, quality, time and cost constraints â¢ Interacted with the customers\clients on their projects for providing technical advises & feedbacks, creating high-level requirements.
+â¢ Schedule tracking in coordination with site to ensure timely delivery of the Project as planned.
+â¢ Proficient in various documentation processes.
+â¢ Expert in ensuring the effective utilization of resources; human, material, and facility. Plans and project schedules, tests etc â¢ Adopt at maintaining perfect coordination with the work team & all internal/external parties to freeze the technical parameters/ work scope to iron out any ambiguities; carrying out work measurements and providing technical validation for jobs.
+ *Please see Annexure for project details
+company - Fox Controls, Dubai
+description - Worked as a foundation member for this startup of business by contacting local customers and providing services as per their requirements.
+
+ADDITIONAL RESPONSIBILITY: â¢ Worked as Management Representative for maintaining the ISO 9001:2008 QUALITY SYSTEM.
+â¢ Carried out the INTERNAL AUDITS for all the departments in the company for the year 2011.
+company - ENERCON (INDIA) LIMITED
+description - â¢ Completed 7 projects of capacity ranging from 1.2 MW to 8.4 MW as a Commissioning Leader.
+â¢ Got hands on experience with Inverter-Converter system, various power devices like IGBTs, thyristors etc.
+â¢ Handled SAP system

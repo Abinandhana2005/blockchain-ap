@@ -1,0 +1,25 @@
+Education Details 
+May 2013 Master Computer Application Mumbai, Maharashtra IMCOST College
+April 2010 BSc Computer Science Mumbai, Maharashtra V.K.K. Menon College
+March 2005  SpringerNature Pune, Maharashtra S.V.V.M School
+ABAP Developer 
+
+ABAP Developer - SAP EXPOSURE
+Skill Details 
+Company Details 
+company - SAP EXPOSURE
+description - 1. Organization: SpringerNature.
+Duration: MAR 2017 -Till date â¢ Project: Support for springer Nature
+Project Type: Support
+Role: ABAP Developer
+
+Major Contribution: â¢ Writing new reports and modification for existing reports.
+â¢ Worked on smartforms.
+â¢ Standard debugging for issues â¢ For unit testing created contracts, orders, and invoices and tested individually.
+company - Atos Pvt. Ltd
+description - Duration: MAY 2014 -DEC 2015 â¢ Project: lenM - It's a Ministry of Netherland Project â¢ Project: DSP - DSM Sinochem Pharmaceuticals â¢ Project: AkzoNobel - Akzonobel is a leading global paints and coatings company  and a major producer of specialty chemicals.
+Project Type: Support
+Role: ABAP Developer
+Major Contribution: â¢ Modified SAP Script as per the requirement specified.
+â¢ Modified Invoice Smart Form.
+â¢ Created custom tables, data elements, structures.

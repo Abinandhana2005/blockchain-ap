@@ -1,0 +1,28 @@
+Technical Skills Programming Languages: C, C++, Java, .Net., J2EE, HTML5, CSS, MapReduce Scripting Languages: Javascript, Python Databases: Oracle (PL-SQL), MY-SQL, IBM DB2 Tools:IBM Rational Rose, R, Weka Operating Systems: Windows XP, Vista, UNIX, Windows 7, Red Hat 7Education Details 
+January 2015 B.E  Pimpri Chinchwad, MAHARASHTRA, IN Pimpri Chinchwad College of Engineering
+January 2012 Diploma MSBTE  Dnyanganaga Polytechnic
+ S.S.C   New English School Takali
+Hadoop/Big Data Developer 
+
+Hadoop/Big Data Developer - British Telecom
+Skill Details 
+APACHE HADOOP MAPREDUCE- Exprience - 37 months
+MapReduce- Exprience - 37 months
+MAPREDUCE- Exprience - 37 months
+JAVA- Exprience - 32 months
+.NET- Exprience - 6 monthsCompany Details 
+company - British Telecom
+description - Project: British Telecom project (UK)
+Responsibilities:
+â¢ Working on HDFS, MapReduce, Hive, Spark, Scala, Sqoop, Kerberos etc. technologies
+â¢ Implemented various data mining algorithms on Spark like K-means clustering, Random forest, NaÃ¯ve bayes etc.
+â¢ A knowledge of installing, configuring, maintaining and securing Hadoop.
+company - DXC technology
+description - HPE legacy), Bangalore
+â¢ Worked on Hadoop + Java programming
+â¢ Worked on Azure and AWS (EMR) services.
+â¢ Worked on HDInsight Hadoop cluster..
+â¢ Design, develop, document and architect Hadoop applications
+â¢ Develop MapReduce coding that works seamlessly on Hadoop clusters.
+â¢ Analyzing and processing the large data sets on HDFS.
+â¢ An analytical bent of mind and ability to learn-unlearn-relearn surely comes in handy.

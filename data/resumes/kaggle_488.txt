@@ -1,0 +1,53 @@
+Skills: â¢ ETL â¢ Data Warehousing â¢ SQL/PL SQL â¢ Basic Core Java â¢ Basic Python Tools: â¢ SAP BODS â¢ SAP BO â¢ Oracle 11g â¢ Sybase Education Details 
+August 2008 to July 2012 Bachelor of Engineering Navi Mumbai Panvel, Maharashtra Mumbai University
+June 2006 to May 2007 B.E Computer Engineering Navi Mumbai, Maharashtra Ryan International School
+SAP BO/BODS Developer/Administrator, Tata Consultancy Services Limited 
+
+SAP BP/BODS Developer/Administrator, Tata Consultancy - SAP BODS
+Skill Details 
+DATA WAREHOUSING- Exprience - 6 months
+SAP BO ADMIN- Exprience - Less than 1 year months
+SAP BODS- Exprience - Less than 1 year months
+ETL- Exprience - Less than 1 year months
+BASIC CORE JAVA- Exprience - Less than 1 year months
+SAP BO- Exprience - Less than 1 year months
+SAP BODS ADMIN- Exprience - Less than 1 year months
+BASIC PYTHON- Exprience - Less than 1 year monthsCompany Details 
+company - SAP BODS
+description - â¢ 
+Client: Royal Bank of Canada
+
+â¢ Developed BODS jobs and created/modified packages during migration from Sybase to Oracle Database.
+â¢ Taking up regular performance enhancement activities by co-coordinating with other teams like database team, Server Team, Data Center team to identify bottlenecks in the running of jobs.
+â¢ Developed BODS jobs to fetch data from SAP R3 using various data transfer modes.
+â¢ Implemented Central repositories to move jobs seamlessly in multi-developer environment
+company - Tata Consultancy Services Limited
+description - â¢ Installed and configured all the five environments of BO 4.0 and BODS 4.0/4.2 (DEV/QA/PROD/Standby/DR) with Apache and Tomcat as web and app servers on windows
+â¢ Loading dataÂ received from various source systems like TCS BaNCS, SAP R3, LOS, Credence and flat files using SCD1 and SCD2 to Data Warehouse to generate consolidated reports.
+â¢ Developed BODS jobs to fetch data from SAP R3 using various data transfer modes.Â 
+â¢ Implemented Central repositories to move jobs seamlessly in multi-developer environment.
+â¢ Configuration and creation of BODS repositories using Repository Manager and Sever Manager
+â¢ Used Formats and Transforms including Flat File formats, Query, Table Comparison, History Preserving, Validation Transform, Key Generation and Map Operation
+â¢ Â Deployed BODS in Active-Active mode using server groups to improve performance and availability of the system
+â¢ Using BO Java SDK to build custom java programs to automate various administration tasks and fetching metadata about BO system.
+â¢ Implemented BO Mobile and used wdeploy to separate static and dynamic contents into web server and web application.
+â¢ Developed audit reports in web Intelligence using audit universe to gather information about the usage of various reports in the BO system.
+â¢ Â Implemented and deployed features like Trusted authentication,VintelaÂ sso to make application easy to use for end users.
+â¢ Daily administrator tasks involved migration of resources from one environment to another, publication creation and monitoring, troubleshooting any issues with the application and monitoring the application through the tools available to ensure that the application is up and available round the clock.
+â¢ Have been involved in testing of backup systems in Standby and DR to make sure that application continue to service business users in case the primary systems are down.
+company - Tata Consultancy Services Limited
+description - Client: Tata Capital Financial Services Limited
+
+â¢ Installed and configured all the five environments of BO 4.0 and BODS 4.0/4.2
+â¢ (DEV/QA/PROD/Standby/DR) with Apache and Tomcat as web and app servers on windows.
+â¢ Loading data received from various source systems like TCS BaNCS, SAP R3, LOS, Credence and flat files using SCD1 and SCD2 to Data Warehouse to generate consolidated reports.
+â¢ Configuration and creation of BODS repositories using Repository Manager and Sever Manager.
+â¢ Used Formats and Transforms including Flat File formats, Query, Table Comparison, History
+â¢ Preserving, Validation Transform, Key Generation and Map Operation.
+â¢ Deployed BODS in Active-Active mode using server groups to improve performance and availability of the system.
+â¢ Using BO Java SDK to build custom java programs to automate various administration tasks and fetching metadata about BO system.
+â¢ Implemented BO Mobile and used wdeploy to separate static and dynamic contents into web server and web application.
+â¢ Developed audit reports in web Intelligence using audit universe to gather information about the usage of various reports in the BO system.
+â¢ Implemented and deployed features like Trusted authentication, Vintela sso to make application easy to use for end users.
+â¢ Daily administrator tasks involved migration of resources from one environment to another,publication creation and monitoring, troubleshooting any issues with the application and monitoring the application through the tools available to ensure that the application is up and available round the clock.
+â¢ Have been involved in testing of backup systems in Standby and DR to make sure that application continue to service business users in case the primary systems are down.

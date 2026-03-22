@@ -1,0 +1,79 @@
+Key Skills - Requirement Gathering - Requirement Analysis -Design Specifications - Client Communication - System Documentation - Problem solving - SDLC Operating Systems: Windows OS, UNIX (Linux/Ubuntu) Languages: Java, C++ Web Languages: JavaScript, HTML Tools: Citrix Software, System Architect, Quality Center v9.0 & v10.0, Tortoise SVN, DOORS, Artifact Viewer, JformDesigner, JIRA, Microsoft D365 Other Skills: Microsoft Office, MS Excel, MS PowerPoint, MS Visio, AutoCAD, VLSI, MS-CIT Certified. Education Details 
+January 2012 BE Electronics Mumbai, Maharashtra Mumbai University
+January 2006    Maharashtra State Board
+Business Analyst 
+
+Business Analyst - Intertek India Pvt Ltd
+Skill Details 
+SDLC- Exprience - 75 months
+VISIO- Exprience - 60 months
+REQUIREMENT GATHERING- Exprience - 15 months
+Documentation- Exprience - Less than 1 year months
+Functional Testing- Exprience - Less than 1 year months
+Business Analysis- Exprience - Less than 1 year months
+Jira- Exprience - Less than 1 year monthsCompany Details 
+company - Intertek India Pvt Ltd
+description - Business Analyst. Key responsibilities include Requirements Gathering, Requirements Analysis. Documentation like FRD creation. Providing KT sessions to the team. Having Client Communication. Gap Analysis.
+company - Intertek India Pvt Ltd
+description - Requirement Gathering from Businesses. Creating FRDs.
+â Vendor interaction for functional and technical disciplines.
+â Creating Project Plan.
+â Walkthrough to team regarding the requirement â Change Proposal Management; Effort Estimation, Impact & Gap Analysis â Actively participate in Change proposal implementation & testing and define ways for improvement / enhancement â Defect analysis & clarifying functional queries of team members & developers â Creating UAT Test cases. Executing the same.
+â Test Management: Test Data creation, Test Case writing, Test Case Execution (Manual), Regression tests at various stages in the SDLC
+
+Project Details
+Project 1	Inlight (Feb 2018 till date)
+Platform	.Net
+
+Description:
+Inlight - (Supplier Risk Assessment Application)
+Inlight is an Application designed to assess the Suppliers within the Supply chain. The Application on boards the Importers, Exporters and Suppliers. Based on the role they perform a Questionnaire is assigned to them and they fill out the Questionnaire. Basis the answer a scoring methodology is defined and the Suppliers are assessed to be Critical, High, Medium and Low. This helps in assessing the risk involved in working with certain Suppliers in the Supply chain.
+
+Beyond Curriculum â Completed Internship in L&T â Attended Logistics Business School Training in Germany.
+â A1 Certified in German Language.
+â Travelled Onsite for Business Meetings and Discussions with Clients.
+
+Personal Dossier .
+company - AllCargo India Pvt Ltd
+description - FRD creation
+Client communication
+Vendor Management
+Having product Walk through with the team.
+company - AllCargo India Pvt Ltd
+description - Requirement Gathering from Businesses. Creating BRDs and FSDs.
+â Vendor interaction for functional and technical disciplines.
+â Creating Project Plan.
+â Analyzing business requirements and defining consistent, correct and complete specification â Change Proposal Management; Effort Estimation, Impact & Gap Analysis â Actively participate in Change proposal implementation & testing and define ways for improvement / enhancement â Defect analysis & clarifying functional queries of team members & developers â Prepare Requirement document, User manual, Test cases and training material â Test Management: Test Data creation, Test Case writing, Test Case Execution (Manual), Regression tests at various stages in the SDLC
+
+Project Details
+Project 1	CRM (Nov 2017 to Feb 2018)
+Platform	Microsoft D365
+
+Description:
+CRM - (Sales Management System)
+CRM is a Software solution specially designed for handling Sales Management. This is a product provided by Microsoft which helps in tracking the sales of company, the activities of the salesperson, 360-degree view of customer accounts. This basically helps to get the overall status and view of various businesses the company is achieving from different Customers. A platform where the salesperson provides the details of Lead, Opportunity, Accounts and Businesses. Available on Cloud.
+
+Project 2	Credit Risk (Nov 2017 to Feb 2018)
+Platform	.Net
+
+Description:
+Credit Risk - (Customer credit check Management System)
+Credit Risk is a Software solution specially designed for checking the credit status of the customer from which businesses are gained. The software basically is designed to take the KYC and the consent from the customer. For those customers who provide the consent, the credit report and monitoring report are obtained from the Credit Bureau. Based on the reports the customer health can be determined and business with them can either be  or discontinued.
+
+Work Experience 3:
+company - Capgemini India Pvt Ltd
+description - Client: DB Schenker â Analyzing business requirements and defining consistent, correct and complete specification â Change Proposal Management; Effort Estimation, Impact & Gap Analysis â Actively participate in Change proposal implementation & testing and define ways for improvement / enhancement â Defect analysis & clarifying functional queries of team members & developers â Prepare Requirement document, User manual, Test cases and training material â Impart business process knowledge transfer to the team members. Prepare business / functional process workflow using Visio, UML etc â Working knowledge of OOAD - Object Oriented Analysis & Design concept.
+â Helping the Junior BAs in their work. Supervising their work.
+â Tools & Applications: System Architect, DOORS, UML designs & concepts, HP Quality Center, MWB, Jformdesigner â Test Management: Test Data creation, Test Case writing, Test Case Execution (Manual), Regression tests at various stages in the SDLC
+
+Project Details
+company - Capgemini India Pvt Ltd
+description - Platform	Java
+
+Description:
+TANGO - (Sea & Air Cargo Management System)
+TANGO is a Software solution specially designed for handling sea and air cargo (Import & Export) Management. TANGO manages the creation of Shipment, Tracking the shipment via multiple service legs i.e. Pick-up, Delivery leg etc. It helps in managing the end to end shipment with respect to the entire department involvement (globally)
+
+Work Experience 2:
+company - Capgemini India Pvt Ltd
+description - 

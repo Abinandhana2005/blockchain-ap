@@ -1,0 +1,50 @@
+Technical Expertise Operating Systems Microsoft Window Server 2003/2008/2008 R2/2012 Database Technologies SQL Server, Sybase ASE Server, Oracle, MongoDB Monitoring and Ticketing Tools HP Service Manager 7.0/9.0, Solar winds DPA, JIRA and MongoDB OPS manager Web Server IIS 7.0 Database Tools SSMS, DBArtisan, Studio 3T, SnapShot Manager for SQL ServerEducation Details 
+ B. Tech Computer Science Gulbarga, Karnataka PDACOE, Gulbarga, Autonomous Institution
+Database Administrator II 
+
+Database Administrator III - BNY Mellon International Operations (India) PVT. LTD
+Skill Details 
+Sql Dba- Exprience - Less than 1 year monthsCompany Details 
+company - BNY Mellon International Operations (India) PVT. LTD
+description - SQL Server :
+ï	Installation, configuration of database servers using slipstream and setup all the maintenance jobs as per the standard policy on standalone as well as cluster environments with latest service packs
+ï	Installation of SSRS, uploading of .rdls and assigning correct data sources to reports. Grant necessary access to users & developers on reporting website. Aware of SSIS and designing packages as well.
+ï	Create and manage logins, users for database applications, assigning permissions as per requests, resolving user login issues.
+ï	Migration of all SQL server 2005/2008 servers to higher versions.
+ï	Setup of database refresh jobs on QA, DEV and UAT environments and fixing orphaned users.
+ï	Troubleshoot performance related issues. 
+ï	Part of multiple projects to work with developers and provide all required support for testing in QA, UAT & DEV environment. 
+ï	Lead the DR tests for database team.
+ï	Participate in database purge and archive activities.
+ï	Writing codes for automating database administration tasks.
+ï	Worked on automating DR tasks to start the agent jobs on multiple servers, restore databases for log shipped databases without manual intervention for online databases post DR activities.
+ï	Provide support to vendor databases, follow up with the vendor calls and timely escalate to next level when there is no update in predefined timeline.
+ï	Installation and configuration of smsql on windows server. Schedule jobs for creation and deletion of clones on sql server. Maintain backups using smsql.
+
+MongoDB Server:
+ï	Installation and configuration of MongoDB server.
+ï	Creation of databases and collection.
+ï	Creation new user and grant access using Ops manager.
+ï	Monitor database servers using Ops manager.
+Oracle & Sybase Server
+ï	Managing and maintaining multiple instances of Databases on Linux and windows servers.
+ï	Monitoring daily jobs includes backups, refresh and maintenance jobs.
+company - Hewlett-Packard India Sales PVT. LTD. On the payroll of Softenger India PVT. LTD
+description - ï	Installation of SQL Server on standalone as well as windows cluster environments with latest service packs
+ï	SQL server installation using slipstream.
+ï	Installation of reporting services
+ï	Creating logins and users, assigning permissions as per requests.
+ï	Security audit for all logins includes maintenance of unused and orphan user logins
+ï	Create & Maintain daily and weekly jobs/maintenance plans includes backup, index rebuild/reorganize , update statistics and database consistency check
+ï	Create linked servers and ensure connectivity between servers
+ï	Monitor disk space proactively & Space management using data and log file shrinking
+ï	Monitor blocking, deadlocks, open transactions and slow running queries during performance issues and highlight costly queries to developers.
+ï	Configure alerts for deadlock and blocking to maintain performance
+ï	Implementing high availability technologies like log shipping, AlwaysON, mirroring and its troubleshooting, also have knowledge on replication
+ï	Successfully completed migration of Databases from one server to another
+ï	Performing DR drills (Online/Offline) on quarterly basis
+ï	Power shell scripting to monitor, restart SQL service and get Email alert for the service status.
+ï	Maintain TNS entries for oracle client as per client requests.
+ï	Interacting with customers for requirements
+ï	Contacting customer to update the status of handling issues and service requests at every stage of resolution
+ï	Managing proper escalation and notification matrix for all support levels

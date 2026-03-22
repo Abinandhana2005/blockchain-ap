@@ -1,0 +1,40 @@
+Software Skills: * RDBMS: MS SQL SERVER 2000/2005/2008 & 2012, 2014 * Operating Systems: WINDOWS XP/7, WINDOWS SERVER 2008, 12 * Fundamentals: MS Office 03/07 * Tools: SSMS, Performance Monitor, Sql profiler, SQL lite speed. Company name: Barclays Technology Centre India. Team Size: 24 Role: Database Administrator Support Description: Barclays Technology is a UK based retail & invest bank and 300 years of old bank.. It has operations in over 40 countries and employs approximately 120, 000 people. Barclays is organised into four core businesses: Personal & Corporate (Personal Banking, Corporate Banking, Wealth & Investment Management), Barclaycard, Investment Banking. Responsibilities: â Attending various calls from all over the world on various database issues. â Working on Web Gui alerts and resolving incident tickets within the time lines. â Troubleshoooting log shipping issues and fixing the related alerts. â Identifying and Resolving Blocking and locking related issues. â Configuration and monitoring Replication, Log shipping and mirroring setup. â Working on replication issues and Always ON issue. â Granting and revoking permissions on various account provisioning tasks. â Working on call support during the weekend and performing DR test's. and working on weekly maintenance jobs and weekend change requests. Education Details 
+ B.Sc. Maths  Kakatiya University Board secured
+SQL server database administrator 
+
+Database administrator
+Skill Details 
+DATABASE- Exprience - 120 months
+DATABASE ADMINISTRATOR- Exprience - 72 months
+MAINTENANCE- Exprience - 48 months
+MS SQL SERVER- Exprience - 48 months
+REPLICATION- Exprience - 48 monthsCompany Details 
+company - Barclays global services centre
+description - SQL server databases implementation and maintenances
+
+Log shipping, replication, High availability, clustering, performance tuning, database mirroring, Installation, configuration, upgradation, migration
+company - Wipro Infotech Pvt Ltd
+description - SQL server database administrator
+company - CITI Bank
+description - Worked as Database Support at Accord Fintech, Sanpada from Sep 2008 to 2013 Feb.
+company - 
+description - 2012.
+â¢     Sound knowledge in Database Backup, Restore, Attach, and Detach and Disaster Recovery procedures.
+â¢     Developed backup and recovery strategies for production environment.
+â¢     Ensuring data consistency in the database through DBCC and DMV commands.
+â¢     Experience in query tuning and stored procedures and troubleshooting performance issues.
+â¢     Having hands on experience in DR process including log shipping and database mirroring.
+â¢     Experience in scheduling   monitoring of Jobs.
+â¢     Experience in configure and troubleshooting in Always ON.
+â¢     Creating and Maintaining of Maintenance Plan.
+â¢     Expertise in planning and implementing MS SQL Server Security and Database permissions.
+â¢     Clear understanding of Implementation of Log Shipping, Replication and mirroring of databases between the servers.
+â¢     Performance Tuning (Performance Monitor, SQL Profiler Query Analyzer) â¢     Security for server & Databases Implementing security by creating roles/users,
+Added users in roles, assigning rights to roles.
+â¢     Create and maintaining the linked servers between sql Instances.
+â¢     Create and maintaining and Database mail.
+â¢     Monitor and troubleshoot database issues.
+â¢     Creating DTS packages for executing the required tasks.
+â¢     Experts in create indexes, Maintaining indexes and rebuilds and reorganizes.
+â¢     Daily Maintenance of SQL Servers included reviewing
+SQL error logs, Event Viewer.
