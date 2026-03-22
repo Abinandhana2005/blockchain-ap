@@ -1,17 +1,21 @@
-Name: Vikram Das
-Email: vikram.das@email.com
+Name: Rajesh Kumar
+Email: rajesh.kumar@email.com
+Phone: +91 9999999999
 
 PROFESSIONAL EXPERIENCE
-Junior Developer (1 year)
-- Basic web development
-- Helped with maintenance
+Senior Software Engineer at Google (5 years)
+- Led ML projects
+- Built distributed systems
+- Improved performance 40%
 
 EDUCATION
-Diploma, Delhi Institute
-CGPA: 6.2/10
+B.Tech Computer Science, IIT Delhi
+CGPA: 8.5/10
 
 SKILLS
-JavaScript, HTML, CSS
+Python, Java, Machine Learning, Cloud, Docker, Kubernetes
 
 PROJECTS
-Simple Website
+Swarm Learning System - Blockchain + ML
+Resume Screening AI - NLP classifier
+Data Engineering Platform

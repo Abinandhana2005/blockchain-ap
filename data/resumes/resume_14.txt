@@ -1,12 +1,21 @@
-Name: Sunita Roy
-Email: sunita.roy@email.com
+Name: Neha Sharma
+Email: neha.sharma@email.com
+Phone: +91 9999999999
 
-BACKGROUND
-Worked at startup
-- Basic coding tasks
+PROFESSIONAL EXPERIENCE
+Senior Software Engineer at Google (5 years)
+- Led ML projects
+- Built distributed systems
+- Improved performance 40%
 
 EDUCATION
-High School Graduate
+B.Tech Computer Science, IIT Delhi
+CGPA: 8.5/10
 
 SKILLS
-Basic programming
+Python, Java, Machine Learning, Cloud, Docker, Kubernetes
+
+PROJECTS
+Swarm Learning System - Blockchain + ML
+Resume Screening AI - NLP classifier
+Data Engineering Platform

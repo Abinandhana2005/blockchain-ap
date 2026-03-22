@@ -1,15 +1,20 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import './App.css';
 import axios from 'axios';
+import Upload from './components/Upload';
+import Results from './components/Results';
+import AuditLog from './components/AuditLog';
+import Dashboard from './components/Dashboard';
 
 function App() {
   const [status, setStatus] = useState('Ready');
   const [results, setResults] = useState(null);
   const [loading, setLoading] = useState(false);
+  const [uploadCount, setUploadCount] = useState(0);
 
-  const runDemo = async () => {
+  const runSwarmLearning = async () => {
     setLoading(true);
-    setStatus('Running swarm learning...');
+    setStatus('🔄 Running swarm learning...');
     
     try {
       const response = await axios.post('http://localhost:5000/run_swarm', {
@@ -17,7 +22,7 @@ function App() {
       });
       
       setResults(response.data);
-      setStatus('✓ Complete!');
+      setStatus('✓ Swarm learning completed!');
     } catch (error) {
       setStatus(`✗ Error: ${error.message}`);
     }
@@ -25,36 +30,40 @@ function App() {
     setLoading(false);
   };
 
+  const handleUploadSuccess = () => {
+    setUploadCount(uploadCount + 1);
+  };
+
   return (
     <div className="App">
-      <header>
+      <header className="app-header">
         <h1>🚀 Resume Screening - Swarm Learning + Blockchain</h1>
+        <p>Decentralized ML with Smart Contract Validation</p>
       </header>
       
-      <main>
-        <div className="section">
-          <h2>Swarm Learning Demo</h2>
-          
-          <div className="status-box">
-            <p>Status: <strong>{status}</strong></p>
+      <main className="app-main">
+        <div className="container">
+          <div className="left-column">
+            <Upload onUploadSuccess={handleUploadSuccess} />
+            
+            <div className="action-box">
+              <button 
+                onClick={runSwarmLearning}
+                disabled={loading}
+                className="start-button"
+              >
+                {loading ? '⏳ Running...' : '▶️ Start Swarm Learning'}
+              </button>
+              <p className="status-text">{status}</p>
+            </div>
+            
+            <Dashboard uploadCount={uploadCount} />
           </div>
           
-          <button 
-            onClick={runDemo} 
-            disabled={loading}
-            className="run-button"
-          >
-            {loading ? 'Running...' : 'Start Swarm Learning'}
-          </button>
-          
-          {results && (
-            <div className="results-box">
-              <h3>Results</h3>
-              <p>Final Accuracy: <strong>{(results.accuracy * 100).toFixed(1)}%</strong></p>
-              <p>Rounds: <strong>{results.rounds}</strong></p>
-              <p>Transactions: <strong>{results.transactions}</strong></p>
-            </div>
-          )}
+          <div className="right-column">
+            <Results results={results} />
+            <AuditLog />
+          </div>
         </div>
       </main>
     </div>

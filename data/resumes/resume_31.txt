@@ -1,6 +1,6 @@
-Name: Sneha Gupta
-Email: sneha.gupta@email.com
-Phone: +91 7777777777
+Name: Priya Singh
+Email: priya.singh@email.com
+Phone: +91 9999999999
 
 EXPERIENCE
 Software Developer at TechCorp (3 years)

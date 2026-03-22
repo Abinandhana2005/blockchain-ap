@@ -1,6 +1,6 @@
-Name: Sunita Roy
-Email: sunita.roy@email.com
-Phone: +91 8888888888
+Name: Vikram Das
+Email: vikram.das@email.com
+Phone: +91 9999999999
 
 EXPERIENCE
 Software Developer at TechCorp (3 years)

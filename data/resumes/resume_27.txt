@@ -1,12 +1,21 @@
-Name: Sunita Roy
-Email: sunita.roy@email.com
+Name: Priya Singh
+Email: priya.singh@email.com
+Phone: +91 7777777777
 
-BACKGROUND
-Worked at startup
-- Basic coding tasks
+EXPERIENCE
+Software Developer at TechCorp (3 years)
+- Built backend systems
+- Worked with Python and Java
+- Led 5 engineers
 
 EDUCATION
-High School Graduate
+B.Tech IT, Mumbai University
+CGPA: 7.8/10
 
 SKILLS
-Basic programming
+Python, Java, AWS, Docker, SQL
+
+ACHIEVEMENTS
+- Patent filed for optimization algorithm
+- Presented at 2 international conferences
+- Open source contributor
