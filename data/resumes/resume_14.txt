@@ -1,18 +1,12 @@
-Name: Neha Sharma
-Email: neha.sharma@gmail.com
-Phone: +91 9999999999
+Name: Sunita Roy
+Email: sunita.roy@email.com
 
-PROFESSIONAL EXPERIENCE
-ML Engineer (varies)
-- Built systems
-- Led teams
-- Improved performance
-
-SKILLS
-Python, Java, ML, Cloud
+BACKGROUND
+Worked at startup
+- Basic coding tasks
 
 EDUCATION
-IIT Bombay, 6.4/10
+High School Graduate
 
-PROJECTS
-Swarm Learning, ML Model, Blockchain
+SKILLS
+Basic programming

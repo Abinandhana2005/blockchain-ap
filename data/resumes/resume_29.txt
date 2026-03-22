@@ -1,18 +1,17 @@
 Name: Arjun Patel
-Email: arjun.patel@gmail.com
-Phone: +91 9999999999
+Email: arjun.patel@email.com
 
 PROFESSIONAL EXPERIENCE
-Junior Developer (varies)
-- Built systems
-- Led teams
-- Improved performance
-
-SKILLS
-Python, Java, ML, Cloud
+Junior Developer (1 year)
+- Basic web development
+- Helped with maintenance
 
 EDUCATION
-IIT Delhi, 9.4/10
+Diploma, Delhi Institute
+CGPA: 6.2/10
+
+SKILLS
+JavaScript, HTML, CSS
 
 PROJECTS
-Swarm Learning, ML Model, Blockchain
+Simple Website

@@ -1,18 +1,17 @@
-Name: Rajesh Kumar
-Email: rajesh.kumar@gmail.com
-Phone: +91 9999999999
+Name: Neha Sharma
+Email: neha.sharma@email.com
 
 PROFESSIONAL EXPERIENCE
-Full Stack Developer (varies)
-- Built systems
-- Led teams
-- Improved performance
-
-SKILLS
-Python, Java, ML, Cloud
+Junior Developer (1 year)
+- Basic web development
+- Helped with maintenance
 
 EDUCATION
-Bangalore University, 6.0/10
+Diploma, Delhi Institute
+CGPA: 6.2/10
+
+SKILLS
+JavaScript, HTML, CSS
 
 PROJECTS
-Swarm Learning, ML Model, Blockchain
+Simple Website

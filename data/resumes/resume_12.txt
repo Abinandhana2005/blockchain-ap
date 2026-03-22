@@ -1,18 +1,12 @@
-Name: Vikram Das
-Email: vikram.das@gmail.com
-Phone: +91 9999999999
+Name: Arun Verma
+Email: arun.verma@email.com
 
-PROFESSIONAL EXPERIENCE
-ML Engineer (varies)
-- Built systems
-- Led teams
-- Improved performance
-
-SKILLS
-Python, Java, ML, Cloud
+BACKGROUND
+Worked at startup
+- Basic coding tasks
 
 EDUCATION
-Delhi University, 8.2/10
+High School Graduate
 
-PROJECTS
-Swarm Learning, ML Model, Blockchain
+SKILLS
+Basic programming

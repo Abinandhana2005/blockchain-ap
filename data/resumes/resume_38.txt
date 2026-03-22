@@ -1,18 +1,17 @@
-Name: Neha Sharma
-Email: neha.sharma@gmail.com
-Phone: +91 9999999999
+Name: Arjun Patel
+Email: arjun.patel@email.com
 
 PROFESSIONAL EXPERIENCE
-Full Stack Developer (varies)
-- Built systems
-- Led teams
-- Improved performance
-
-SKILLS
-Python, Java, ML, Cloud
+Junior Developer (1 year)
+- Basic web development
+- Helped with maintenance
 
 EDUCATION
-IIT Delhi, 8.7/10
+Diploma, Delhi Institute
+CGPA: 6.2/10
+
+SKILLS
+JavaScript, HTML, CSS
 
 PROJECTS
-Swarm Learning, ML Model, Blockchain
+Simple Website

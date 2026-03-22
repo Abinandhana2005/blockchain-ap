@@ -1,18 +1,17 @@
 Name: Vikram Das
-Email: vikram.das@gmail.com
-Phone: +91 9999999999
+Email: vikram.das@email.com
 
 PROFESSIONAL EXPERIENCE
-Senior Software Engineer (varies)
-- Built systems
-- Led teams
-- Improved performance
-
-SKILLS
-Python, Java, ML, Cloud
+Junior Developer (1 year)
+- Basic web development
+- Helped with maintenance
 
 EDUCATION
-IIT Delhi, 9.7/10
+Diploma, Delhi Institute
+CGPA: 6.2/10
+
+SKILLS
+JavaScript, HTML, CSS
 
 PROJECTS
-Swarm Learning, ML Model, Blockchain
+Simple Website

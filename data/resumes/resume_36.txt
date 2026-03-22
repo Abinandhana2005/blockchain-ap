@@ -1,18 +1,21 @@
-Name: Rajesh Kumar
-Email: rajesh.kumar@gmail.com
-Phone: +91 9999999999
+Name: Vikram Das
+Email: vikram.das@email.com
+Phone: +91 7777777777
 
-PROFESSIONAL EXPERIENCE
-Full Stack Developer (varies)
-- Built systems
-- Led teams
-- Improved performance
-
-SKILLS
-Python, Java, ML, Cloud
+EXPERIENCE
+Software Developer at TechCorp (3 years)
+- Built backend systems
+- Worked with Python and Java
+- Led 5 engineers
 
 EDUCATION
-Bangalore University, 7.9/10
+B.Tech IT, Mumbai University
+CGPA: 7.8/10
 
-PROJECTS
-Swarm Learning, ML Model, Blockchain
+SKILLS
+Python, Java, AWS, Docker, SQL
+
+ACHIEVEMENTS
+- Patent filed for optimization algorithm
+- Presented at 2 international conferences
+- Open source contributor

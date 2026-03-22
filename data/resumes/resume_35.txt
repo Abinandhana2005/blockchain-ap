@@ -1,18 +1,21 @@
-Name: Priya Singh
-Email: priya.singh@gmail.com
+Name: Arun Verma
+Email: arun.verma@email.com
 Phone: +91 9999999999
 
 PROFESSIONAL EXPERIENCE
-Senior Software Engineer (varies)
-- Built systems
-- Led teams
-- Improved performance
-
-SKILLS
-Python, Java, ML, Cloud
+Senior Software Engineer at Google (5 years)
+- Led ML projects
+- Built distributed systems
+- Improved performance 40%
 
 EDUCATION
-IIT Delhi, 8.2/10
+B.Tech Computer Science, IIT Delhi
+CGPA: 8.5/10
+
+SKILLS
+Python, Java, Machine Learning, Cloud, Docker, Kubernetes
 
 PROJECTS
-Swarm Learning, ML Model, Blockchain
+Swarm Learning System - Blockchain + ML
+Resume Screening AI - NLP classifier
+Data Engineering Platform

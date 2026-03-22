@@ -1,18 +1,12 @@
 Name: Vikram Das
-Email: vikram.das@gmail.com
-Phone: +91 9999999999
+Email: vikram.das@email.com
 
-PROFESSIONAL EXPERIENCE
-ML Engineer (varies)
-- Built systems
-- Led teams
-- Improved performance
-
-SKILLS
-Python, Java, ML, Cloud
+BACKGROUND
+Worked at startup
+- Basic coding tasks
 
 EDUCATION
-IIT Delhi, 6.5/10
+High School Graduate
 
-PROJECTS
-Swarm Learning, ML Model, Blockchain
+SKILLS
+Basic programming

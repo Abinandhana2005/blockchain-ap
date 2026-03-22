@@ -1,18 +1,17 @@
-Name: Priya Singh
-Email: priya.singh@gmail.com
-Phone: +91 9999999999
+Name: Neha Sharma
+Email: neha.sharma@email.com
 
 PROFESSIONAL EXPERIENCE
-Junior Developer (varies)
-- Built systems
-- Led teams
-- Improved performance
-
-SKILLS
-Python, Java, ML, Cloud
+Junior Developer (1 year)
+- Basic web development
+- Helped with maintenance
 
 EDUCATION
-IIT Delhi, 8.0/10
+Diploma, Delhi Institute
+CGPA: 6.2/10
+
+SKILLS
+JavaScript, HTML, CSS
 
 PROJECTS
-Swarm Learning, ML Model, Blockchain
+Simple Website
