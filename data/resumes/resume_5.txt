@@ -1,21 +1,17 @@
-Name: Vikram Das
-Email: vikram.das@email.com
-Phone: +91 9999999999
+Name: Arjun Patel
+Email: arjun.patel@email.com
 
-EXPERIENCE
-Software Developer at TechCorp (3 years)
-- Built backend systems
-- Worked with Python and Java
-- Led 5 engineers
+PROFESSIONAL EXPERIENCE
+Junior Developer (1 year)
+- Basic web development
+- Helped with maintenance
 
 EDUCATION
-B.Tech IT, Mumbai University
-CGPA: 7.8/10
+Diploma, Delhi Institute
+CGPA: 6.2/10
 
 SKILLS
-Python, Java, AWS, Docker, SQL
+JavaScript, HTML, CSS
 
-ACHIEVEMENTS
-- Patent filed for optimization algorithm
-- Presented at 2 international conferences
-- Open source contributor
+PROJECTS
+Simple Website

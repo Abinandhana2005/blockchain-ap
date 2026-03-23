@@ -1,17 +1,21 @@
-Name: Sunita Roy
-Email: sunita.roy@email.com
+Name: Arun Verma
+Email: arun.verma@email.com
+Phone: +91 9999999999
 
-PROFESSIONAL EXPERIENCE
-Junior Developer (1 year)
-- Basic web development
-- Helped with maintenance
+EXPERIENCE
+Software Developer at TechCorp (3 years)
+- Built backend systems
+- Worked with Python and Java
+- Led 5 engineers
 
 EDUCATION
-Diploma, Delhi Institute
-CGPA: 6.2/10
+B.Tech IT, Mumbai University
+CGPA: 7.8/10
 
 SKILLS
-JavaScript, HTML, CSS
+Python, Java, AWS, Docker, SQL
 
-PROJECTS
-Simple Website
+ACHIEVEMENTS
+- Patent filed for optimization algorithm
+- Presented at 2 international conferences
+- Open source contributor
