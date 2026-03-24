@@ -1,21 +1,12 @@
 Name: Vikram Das
 Email: vikram.das@email.com
-Phone: +91 9999999999
 
-PROFESSIONAL EXPERIENCE
-Senior Software Engineer at Google (5 years)
-- Led ML projects
-- Built distributed systems
-- Improved performance 40%
+BACKGROUND
+Worked at startup
+- Basic coding tasks
 
 EDUCATION
-B.Tech Computer Science, IIT Delhi
-CGPA: 8.5/10
+High School Graduate
 
 SKILLS
-Python, Java, Machine Learning, Cloud, Docker, Kubernetes
-
-PROJECTS
-Swarm Learning System - Blockchain + ML
-Resume Screening AI - NLP classifier
-Data Engineering Platform
+Basic programming

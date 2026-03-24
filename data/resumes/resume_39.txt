@@ -1,6 +1,6 @@
-Name: Arjun Patel
-Email: arjun.patel@email.com
-Phone: +91 7777777777
+Name: Neha Sharma
+Email: neha.sharma@email.com
+Phone: +91 9999999999
 
 EXPERIENCE
 Software Developer at TechCorp (3 years)

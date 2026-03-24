@@ -1,12 +1,17 @@
-Name: Rajesh Kumar
-Email: rajesh.kumar@email.com
+Name: Priya Singh
+Email: priya.singh@email.com
 
-BACKGROUND
-Worked at startup
-- Basic coding tasks
+PROFESSIONAL EXPERIENCE
+Junior Developer (1 year)
+- Basic web development
+- Helped with maintenance
 
 EDUCATION
-High School Graduate
+Diploma, Delhi Institute
+CGPA: 6.2/10
 
 SKILLS
-Basic programming
+JavaScript, HTML, CSS
+
+PROJECTS
+Simple Website

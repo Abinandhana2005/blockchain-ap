@@ -2,20 +2,20 @@ Name: Sneha Gupta
 Email: sneha.gupta@email.com
 Phone: +91 9999999999
 
-PROFESSIONAL EXPERIENCE
-Senior Software Engineer at Google (5 years)
-- Led ML projects
-- Built distributed systems
-- Improved performance 40%
+EXPERIENCE
+Software Developer at TechCorp (3 years)
+- Built backend systems
+- Worked with Python and Java
+- Led 5 engineers
 
 EDUCATION
-B.Tech Computer Science, IIT Delhi
-CGPA: 8.5/10
+B.Tech IT, Mumbai University
+CGPA: 7.8/10
 
 SKILLS
-Python, Java, Machine Learning, Cloud, Docker, Kubernetes
+Python, Java, AWS, Docker, SQL
 
-PROJECTS
-Swarm Learning System - Blockchain + ML
-Resume Screening AI - NLP classifier
-Data Engineering Platform
+ACHIEVEMENTS
+- Patent filed for optimization algorithm
+- Presented at 2 international conferences
+- Open source contributor

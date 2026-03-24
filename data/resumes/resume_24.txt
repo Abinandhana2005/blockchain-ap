@@ -1,21 +1,17 @@
-Name: Arun Verma
-Email: arun.verma@email.com
-Phone: +91 9999999999
+Name: Rajesh Kumar
+Email: rajesh.kumar@email.com
 
 PROFESSIONAL EXPERIENCE
-Senior Software Engineer at Google (5 years)
-- Led ML projects
-- Built distributed systems
-- Improved performance 40%
+Junior Developer (1 year)
+- Basic web development
+- Helped with maintenance
 
 EDUCATION
-B.Tech Computer Science, IIT Delhi
-CGPA: 8.5/10
+Diploma, Delhi Institute
+CGPA: 6.2/10
 
 SKILLS
-Python, Java, Machine Learning, Cloud, Docker, Kubernetes
+JavaScript, HTML, CSS
 
 PROJECTS
-Swarm Learning System - Blockchain + ML
-Resume Screening AI - NLP classifier
-Data Engineering Platform
+Simple Website
