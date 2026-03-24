@@ -1,6 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 import './App.css';
 import axios from 'axios';
+import ResumeScreener from './ResumeScreener';
 import {
   LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip,
   ResponsiveContainer, Legend, ReferenceLine
@@ -177,7 +178,9 @@ function UploadSection({ onUpload }) {
 
 // ─── 3. BLOCKCHAIN AUDIT LOG ───────────────────────────────────────────────
 function AuditLog({ entries }) {
-  const validated = entries.filter(e => e.approved !== false).length;
+  const validated  = entries.filter(e => e.approved !== false).length;
+  const realChain  = entries.filter(e => e.real_chain).length;
+  const totalGas   = entries.reduce((sum, e) => sum + (e.gas_used ?? 21432), 0);
 
   return (
     <Panel title="BLOCKCHAIN AUDIT LOG" badge={`${entries.length} TXS`} noPad>
@@ -214,7 +217,12 @@ function AuditLog({ entries }) {
         <div className="audit-footer">
           <span className="audit-footer-stat">Validated: <span>{validated}</span></span>
           <span className="audit-footer-stat">Failed: <span style={{ color:'var(--red)' }}>{entries.length - validated}</span></span>
-          <span className="audit-footer-stat">Est. gas: <span>{(entries.length * 21432).toLocaleString()}</span></span>
+          <span className="audit-footer-stat">
+            {realChain > 0
+              ? <span style={{ color:'var(--green)' }}>⬡ {realChain} on-chain</span>
+              : <span>Est. gas: {totalGas.toLocaleString()}</span>
+            }
+          </span>
         </div>
       )}
     </Panel>
@@ -224,7 +232,7 @@ function AuditLog({ entries }) {
 // ─── 4. NODE STATUS PANEL ──────────────────────────────────────────────────
 function NodeStatus({ results, loading }) {
   const nodeData = NODE_IDS.map((id, i) => {
-    const rounds   = results?.round_details ?? [];
+    const rounds    = results?.round_details ?? [];
     const lastRound = rounds[rounds.length - 1];
     const acc       = lastRound?.node_accuracies?.[i] ?? null;
     const trust     = results?.trust_scores?.[i] ?? 100;
@@ -264,11 +272,11 @@ function NodeStatus({ results, loading }) {
 
 // ─── 5. CONVERGENCE PROOF ──────────────────────────────────────────────────
 function ConvergenceProof({ results }) {
-  const rounds      = results?.round_details ?? [];
-  const initial     = results?.initial_accuracy ?? rounds[0]?.avg_accuracy ?? 0.60;
-  const final       = results?.accuracy ?? rounds[rounds.length - 1]?.avg_accuracy ?? 0.84;
-  const gain        = ((final - initial) * 100).toFixed(1);
-  const singleNode  = rounds[0]?.node_accuracies?.[0] ?? initial;
+  const rounds     = results?.round_details ?? [];
+  const initial    = results?.initial_accuracy ?? rounds[0]?.avg_accuracy ?? 0.60;
+  const final      = results?.accuracy ?? rounds[rounds.length - 1]?.avg_accuracy ?? 0.84;
+  const gain       = ((final - initial) * 100).toFixed(1);
+  const singleNode = rounds[0]?.node_accuracies?.[0] ?? initial;
 
   return (
     <Panel title="CONVERGENCE PROOF" badge="SWARM vs SINGLE" badgeColor="#4dabf7">
@@ -297,18 +305,20 @@ function ConvergenceProof({ results }) {
 }
 
 // ─── Contract Info + Stats ─────────────────────────────────────────────────
-function ContractInfo({ txCount }) {
+function ContractInfo({ txCount, blockchainLive, onChainTx }) {
   return (
-    <Panel title="SMART CONTRACT" badge="GANACHE">
+    <Panel title="SMART CONTRACT" badge={blockchainLive ? 'LIVE' : 'GANACHE'}
+      badgeColor={blockchainLive ? '#00d68f' : undefined}>
       <div className="contract-info">
         {[
-          ['Address',      '0x5FbD...2315',       ''],
-          ['Network',      'localhost:8545',       'green'],
-          ['Chain ID',     '1337',                 ''],
-          ['Method',       'submitUpdate()',        ''],
-          ['Transactions', txCount,                'amber'],
-          ['Min accuracy', '50%',                  ''],
-          ['Max accuracy', '95%',                  ''],
+          ['Address',      '0x5FbD...2315',                              ''],
+          ['Network',      'localhost:8545',                             'green'],
+          ['Chain ID',     '1337',                                       ''],
+          ['Method',       'submitUpdate()',                             ''],
+          ['Mode',         blockchainLive ? 'Real Ganache' : 'Simulated', blockchainLive ? 'green' : ''],
+          ['Transactions', onChainTx ?? txCount,                        'amber'],
+          ['Min accuracy', '50%',                                        ''],
+          ['Max accuracy', '95%',                                        ''],
         ].map(([k, v, cls]) => (
           <div key={k} className="contract-row">
             <span className="contract-key">{k}</span>
@@ -325,10 +335,10 @@ function ChainStats({ txCount, uploadCount, results }) {
     <Panel title="CHAIN STATS">
       <div className="chain-stats">
         {[
-          ['Transactions', txCount,           'on-chain'],
-          ['Rounds',       results ? 5 : 0,   'completed'],
-          ['Resumes',      50 + uploadCount,  'in dataset'],
-          ['Accuracy',     results ? `${(results.accuracy*100).toFixed(0)}%` : '--', 'final swarm'],
+          ['Transactions', txCount,                                                         'on-chain'],
+          ['Rounds',       results ? 5 : 0,                                                'completed'],
+          ['Resumes',      (results?.resume_split?.total ?? 50) + uploadCount,             'in dataset'],
+          ['Accuracy',     results ? `${(results.accuracy * 100).toFixed(0)}%` : '--',    'final swarm'],
         ].map(([label, val, sub]) => (
           <div key={label} className="stat-cell">
             <div className="stat-cell-label">{label}</div>
@@ -343,16 +353,25 @@ function ChainStats({ txCount, uploadCount, results }) {
 
 // ─── Main App ──────────────────────────────────────────────────────────────
 export default function App() {
-  const [status, setStatus]      = useState('Ready to initialize swarm');
-  const [results, setResults]    = useState(null);
-  const [loading, setLoading]    = useState(false);
-  const [uploadCount, setUpload] = useState(0);
-  const [auditLog, setAuditLog]  = useState([]);
-  const [blockNum, setBlockNum]  = useState(1248);
+  const [status, setStatus]           = useState('Ready to initialize swarm');
+  const [results, setResults]         = useState(null);
+  const [loading, setLoading]         = useState(false);
+  const [uploadCount, setUpload]      = useState(0);
+  const [auditLog, setAuditLog]       = useState([]);
+  const [blockNum, setBlockNum]       = useState(1248);
+  const [blockchainLive, setChainLive] = useState(false);
 
+  // Auto-increment block number
   useEffect(() => {
     const t = setInterval(() => setBlockNum(n => n + 1), 6000);
     return () => clearInterval(t);
+  }, []);
+
+  // Check if backend + blockchain are alive on mount
+  useEffect(() => {
+    axios.get('http://localhost:5000/health')
+      .then(res => setChainLive(res.data.blockchain_live ?? false))
+      .catch(() => {});
   }, []);
 
   const buildAudit = (data) =>
@@ -368,21 +387,28 @@ export default function App() {
       const res  = await axios.post('http://localhost:5000/run_swarm', { rounds: 5 });
       const data = res.data;
       setResults(data);
+      setChainLive(data.blockchain_live ?? false);
       const entries = buildAudit(data);
       setAuditLog(entries);
       setBlockNum(n => n + entries.length);
-      setStatus(`Complete — ${entries.length} transactions committed to chain`);
+
+      const chainLabel = data.blockchain_live ? 'real Ganache' : 'simulation';
+      setStatus(`Complete — ${entries.length} transactions committed (${chainLabel})`);
     } catch {
       // Full demo fallback — every panel works even offline
       const demo = {
         accuracy: 0.84, initial_accuracy: 0.60,
         trust_scores: [125, 125, 125],
+        blockchain_live: false,
+        resume_split: { total: 30 },
         round_details: [0.60, 0.66, 0.72, 0.79, 0.84].map((avg, i) => ({
           round: i + 1, avg_accuracy: avg,
           node_accuracies: [avg - 0.02, avg, avg + 0.02],
           transactions: NODE_IDS.map((id, j) => ({
             node: id, round: i + 1,
             accuracy: avg - 0.02 + j * 0.02, approved: true,
+            real_chain:   false,
+            gas_used:     21432,
             tx_hash:      '0x' + Math.random().toString(16).slice(2).padEnd(64, '0'),
             weights_hash: '0x' + Math.random().toString(16).slice(2).padEnd(64, '0'),
             trust_score:  100 + (i + 1) * 5,
@@ -407,12 +433,17 @@ export default function App() {
           <div className="header-subtitle">Resume Screening · Swarm Learning · Blockchain Validation</div>
         </div>
         <div className="header-right">
-          <div className="network-badge"><div className="pulse-dot" />Ganache localhost</div>
+          <div className="network-badge">
+            <div className="pulse-dot" style={{ background: blockchainLive ? '#00d68f' : '#f0a500',
+              boxShadow: `0 0 8px ${blockchainLive ? '#00d68f' : '#f0a500'}` }} />
+            {blockchainLive ? 'Ganache LIVE' : 'Ganache localhost'}
+          </div>
           <div className="block-counter">Block <span>#{blockNum}</span></div>
         </div>
       </header>
 
       <div className="container">
+        {/* ── LEFT COLUMN ── */}
         <div className="left-column">
           <UploadSection onUpload={(n) => setUpload(c => c + n)} />
           <Panel title="CONTROL">
@@ -424,14 +455,21 @@ export default function App() {
               {loading && '● '}{status}
             </div>
           </Panel>
-          <ContractInfo txCount={auditLog.length} />
+          <ContractInfo
+            txCount={auditLog.length}
+            blockchainLive={blockchainLive}
+            onChainTx={results?.on_chain_tx_count}
+          />
           <NodeStatus results={results} loading={loading} />
           <ChainStats txCount={auditLog.length} uploadCount={uploadCount} results={results} />
         </div>
 
+        {/* ── RIGHT COLUMN ── */}
         <div className="right-column">
           <AccuracyGraph results={results} />
           {results && <ConvergenceProof results={results} />}
+          {/* Resume Screener — active only after swarm has run */}
+          <ResumeScreener modelReady={results?.model_ready ?? false} />
           <AuditLog entries={auditLog} />
         </div>
       </div>
