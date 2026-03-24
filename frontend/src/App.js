@@ -369,7 +369,7 @@ export default function App() {
 
   // Check if backend + blockchain are alive on mount
   useEffect(() => {
-    axios.get('http://localhost:5000/health')
+    axios.get('http://127.0.0.1:5000/health')
       .then(res => setChainLive(res.data.blockchain_live ?? false))
       .catch(() => {});
   }, []);
@@ -384,7 +384,7 @@ export default function App() {
 
     try {
       setStatus('Dispatching training to nodes...');
-      const res  = await axios.post('http://localhost:5000/run_swarm', { rounds: 5 });
+      const res  = await axios.post('http://127.0.0.1:5000/run_swarm', { rounds: 5 });
       const data = res.data;
       setResults(data);
       setChainLive(data.blockchain_live ?? false);

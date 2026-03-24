@@ -36,7 +36,7 @@ export default function ResumeScreener() {
     setResult(null);
 
     try {
-      const res = await axios.post('http://localhost:5000/screen', {
+      const res = await axios.post('http://127.0.0.1:5000/screen', {
         resume_text: text,
       });
       setResult(res.data);

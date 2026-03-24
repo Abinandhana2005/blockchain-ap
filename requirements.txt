@@ -1,6 +1,7 @@
 Flask
 Flask-Cors
 numpy
+pandas
 scikit-learn
 web3
-    
+py-solc-x

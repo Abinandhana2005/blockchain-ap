@@ -252,7 +252,13 @@ def make_seed(resumes, total):
 # Blockchain helper
 # ─────────────────────────────────────────────────────────────────────────────
 
-def submit_to_chain(node_id, accuracy_int, weights_hash):
+def submit_to_chain(node_id, accuracy_int, weights_hash, round_num=0, current_trust=100):
+    """
+    Follows BLOCKCHAIN RECORDING rules from design:
+    - Create tx hash from: node_id + round + weights_hash
+    - Check approval: accuracy in (50, 95) AND trust >= 50
+    - Update trust: +5 if approved, -10 if rejected
+    """
     if blockchain_live and contract and w3:
         try:
             tx = contract.functions.submitUpdate(
@@ -272,13 +278,21 @@ def submit_to_chain(node_id, accuracy_int, weights_hash):
         except Exception as e:
             print(f"Chain tx failed ({node_id}): {e}")
 
-    approved = (50 <= accuracy_int <= 95)
+    # SIMULATED LOGIC (matches SwarmChain.sol and design image)
+    approved = (50 <= accuracy_int <= 95) and (current_trust >= 50)
+    
+    new_trust = current_trust + 5 if approved else max(0, current_trust - 10)
+    new_trust = min(new_trust, 200) # cap at 200 as per contract
+
+    # Create transaction hash from: node_id + round + weights_hash
+    tx_input = f"{node_id}{round_num}{weights_hash}"
+    tx_hash  = '0x' + hashlib.sha256(tx_input.encode()).hexdigest()
+
     return {
-        'tx_hash': '0x' + hashlib.sha256(
-            f"{node_id}{accuracy_int}{weights_hash}".encode()).hexdigest(),
+        'tx_hash':     tx_hash,
         'approved':    approved,
-        'trust_score': None,
-        'gas_used':    21_432,
+        'trust_score': new_trust,
+        'gas_used':    21432,
         'real_chain':  False,
     }
 
@@ -443,16 +457,12 @@ def run_swarm():
                 w_hash  = '0x' + hashlib.sha256(
                     json.dumps(weights, sort_keys=True).encode()).hexdigest()
 
-                chain    = submit_to_chain(node.node_id, acc_int, w_hash)
+                chain = submit_to_chain(
+                    node.node_id, acc_int, w_hash, 
+                    round_num=r, current_trust=trust_scores[i]
+                )
                 approved = chain['approved']
-
-                if chain['trust_score'] is not None:
-                    trust_scores[i] = chain['trust_score']
-                else:
-                    trust_scores[i] = (
-                        min(trust_scores[i] + 5, 200) if approved
-                        else max(trust_scores[i] - 10, 0)
-                    )
+                trust_scores[i] = chain['trust_score']
 
                 lbl = 'CHAIN' if chain['real_chain'] else 'SIM'
                 print(f"    [{lbl}] {node.node_id}: {node_accs[i]:.2%} "
